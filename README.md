@@ -217,4 +217,4 @@ MetaStripper is offered as a **full free version** with all features and updates
 Ready to take control of your image metadata? **Download MetaStripper today and ensure your privacy with every photo you share!**
 
 ---
-**Last updated:** 2026-11-05 03:14:15 UTC
+**Last updated:** 2026-11-05 11:55:14 UTC
